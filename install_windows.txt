@@ -1,0 +1,3 @@
+set system env var OPENCV_DIR=C:\OpenCV\build\x64\vc14
+add to system PATH : %OPENCV_DIR%\bin
+npm install opencv
