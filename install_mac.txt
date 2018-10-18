@@ -1,0 +1,8 @@
+brew update
+brew install opencv@2
+npm install -g node-pre-gyp
+npm install opencv
+
+brew remove opencv
+brew install opencv@2
+brew link opencv@2 --force
