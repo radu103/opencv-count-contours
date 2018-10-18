@@ -6,3 +6,6 @@ npm install opencv
 brew remove opencv
 brew install opencv@2
 brew link opencv@2 --force
+
+brew install opencv
+https://community.risingstack.com/opencv-tutorial-computer-vision-with-node-js/
